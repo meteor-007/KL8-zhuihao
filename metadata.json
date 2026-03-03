@@ -1,0 +1,5 @@
+{
+  "name": "快乐8选2追号分析系统",
+  "description": "基于全量开奖数据，集成10大核心算法引擎（马尔可夫链、PageRank、贝叶斯等）的快乐8选2深度预测与回测系统。",
+  "requestFramePermissions": []
+}
